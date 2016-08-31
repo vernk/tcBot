@@ -1,0 +1,22 @@
+{
+  "name": "tcbot",
+  "version": "1.0.0",
+  "description": "Discord Bot that gets the latest TechCrunch news and sends a message in a channel for everyone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernk/tcBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vernk/tcBot/issues"
+  },
+  "homepage": "https://github.com/vernk/tcBot#readme",
+  "dependencies": {
+    "discord.js": "^8.1.0"
+  }
+}
