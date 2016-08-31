@@ -1,3 +1,7 @@
+/*
+Non-modular version
+*/
+
 var Discord = require("discord.js");
 var http = require('https');
 var bot = new Discord.Client();
