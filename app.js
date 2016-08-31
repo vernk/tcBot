@@ -53,7 +53,7 @@ console.log(urls);
     });
      
      
-       }, 5000);
+       }, 60000);
 });
 function getLatestEntryDate() { 
     var fs = require("fs");
