@@ -5,7 +5,7 @@ Non-modular version
 var Discord = require("discord.js");
 var http = require('https');
 var bot = new Discord.Client();
-bot.loginWithToken("MjIwMjkyODAyOTI2MzQ2MjQx.CqeLOg.gPDuK4Yybbu0WVT7IH208ZT3egc");
+bot.loginWithToken(".CqeLOg.gPDuK4Yybbu0WVT7IH208ZT3egc");
 
 //Bot ready listener
 bot.on("ready", function() {
